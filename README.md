@@ -1,6 +1,7 @@
 ![The Main View](/results/times_kmeans_seeded_kmeans.png?raw=true)
 
 KMeans - ORANGE
+
 Seeded-KMeans - BLUE
 
 # Semi-Supervised-Clustering-Algorithms-Experiment
